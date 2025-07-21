@@ -18,7 +18,9 @@ Passionate about building real-world solutions that move people—literally and 
 Flutter development, app architecture, AI in mobility, startup strategy, and anything tech that improves lives.
 
 📫 **Reach Me At:** bikram1995a@gmail.com
+
 😄 **Preferred Name:** Bikram
+
 ⚡ **Fun Fact:** I’m building apps that will one day become the backbone of smart cities!
   
 ## 🌐 Socials:
